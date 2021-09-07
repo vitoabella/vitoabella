@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vitoabella
+- 👀 I’m interested in Big Data Analysis, Productivity, and games
+- 🌱 I’m currently learning Data Engineering using python
+- 💞️ I’m looking to collaborate on productivity apps and mobile games.
+- 📫 How to reach me: rdabella2@up.edu.ph, twt: @vitoabella
